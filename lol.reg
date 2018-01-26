@@ -7,4 +7,4 @@ REGEDIT4
 "msvcp140"="native,builtin"
 "msvcp120"="native,builtin"
 "vcomp120"="native,builtin"
-"atl120"="native,builtin"
+"atl120"="native,builtin" 
